@@ -48,11 +48,14 @@ Dense Layers: These process the extracted features.
 Output Layer: Gives the classification: bird call or no bird call.
 
 ## Training and Results
+
 I trained the model on a bunch of audio clips and got some decent results. The accuracy was pretty good, and it could pick out the bird calls with high precision. Here’s a sample output:
+```
 Time (s)   | Detected Call
 ---------------------------
 3.5        | Yes
 15.7       | Yes
+```
 
 What’s Next?
 Maybe I’ll try adding some more advanced features, like RNNs to handle sequences better.
