@@ -18,14 +18,14 @@ This project uses deep learning to classify bird sounds, specifically the calls 
 ## How it’s set up
 Here’s a quick rundown of the project structure:
 
-## Deep-Audio-Classifier/
-│
-├── data/               # Where the audio files live
-├── models/             # Saved models
-├── notebooks/          # Jupyter Notebooks for experiments
-├── scripts/            # Python scripts for training and testing
-├── results/            # Output files go here
-└── README.md           # You’re looking at it :)
+## Deep-Audio-Classifier
+
+* data/               # Where the audio files live
+* models/             # Saved models
+* notebooks/          # Jupyter Notebooks for experiments
+* scripts/            # Python scripts for training and testing
+* results/            # Output files go here
+* README.md           # You’re looking at it :)
 
 ## Getting Started
 If you want to try this out on your own, here’s how to set it up:
@@ -57,10 +57,10 @@ Time (s)   | Detected Call
 15.7       | Yes
 ```
 
-What’s Next?
+## What’s Next?
 Maybe I’ll try adding some more advanced features, like RNNs to handle sequences better.
 I’m thinking about optimizing the model further or trying to deploy it in a more user-friendly way.
 
-Contributions
+## Contributions
 If you want to improve this project or add your own ideas, feel free to fork this repo and submit a pull request! I’d love to hear your thoughts.
 
