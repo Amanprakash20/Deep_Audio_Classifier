@@ -13,9 +13,9 @@ Table of Contents
 * Contributions
 
 ## What’s this about?
-This project uses deep learning to classify bird sounds, specifically the calls of Capuchinbirds (yes, that's a real bird). I trained a model to recognize these calls from audio clips and even managed to process long recordings using a sliding window technique. The output is a CSV file showing when the bird calls happen. Pretty neat, right?
+This project uses deep learning to classify bird sounds, specifically the calls of Capuchinbirds (yes, that's a real bird). I trained a model to recognize these calls from audio clips and even managed to process long recordings using a sliding window technique. The output is a CSV file showing when the bird calls happen.
 
-## How it’s set up
+## How it’s set up?
 Here’s a quick rundown of the project structure:
 
 ## Deep-Audio-Classifier
