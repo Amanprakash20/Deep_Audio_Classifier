@@ -30,8 +30,8 @@ Here’s a quick rundown of the project structure:
 ## Getting Started
 If you want to try this out on your own, here’s how to set it up:
 
-1.Clone the repo: git clone https://github.com/yourusername/Deep-Audio-Classifier.git
-2.Jump into the folder: cd Deep-Audio-Classifier
+1.Clone the repo: git clone https://github.com/yourusername/Deep-Audio-Classifier.git  
+2.Jump into the folder: cd Deep-Audio-Classifier  
 3.Install the dependencies:pip install -r requirements.txt
 
 ## The Data Process
