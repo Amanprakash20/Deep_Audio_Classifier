@@ -2,15 +2,15 @@
 Welcome to my Deep Audio Classifier project! This is a cool little experiment I worked on where I used deep learning to identify Capuchinbird calls from audio recordings. It's built with Python and TensorFlow, and it was a fun way for me to dive deeper into audio processing and machine learning.
 
 Table of Contents
-What’s this about?
-How it’s set up
-Getting Started
-The Data Process
-How the Model Works
-Training & Results
-Try It Out!
-What’s Next?
-Contributions
+* What’s this about?
+* How it’s set up
+* Getting Started
+* The Data Process
+* How the Model Works
+* Training & Results
+* Try It Out!
+* What’s Next?
+* Contributions
 
 ## What’s this about?
 This project uses deep learning to classify bird sounds, specifically the calls of Capuchinbirds (yes, that's a real bird). I trained a model to recognize these calls from audio clips and even managed to process long recordings using a sliding window technique. The output is a CSV file showing when the bird calls happen. Pretty neat, right?
