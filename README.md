@@ -1,4 +1,4 @@
-#Deep Audio Classifier
+# Deep Audio Classifier
 Welcome to my Deep Audio Classifier project! This is a cool little experiment I worked on where I used deep learning to identify Capuchinbird calls from audio recordings. It's built with Python and TensorFlow, and it was a fun way for me to dive deeper into audio processing and machine learning.
 
 Table of Contents
@@ -12,13 +12,13 @@ Try It Out!
 What’s Next?
 Contributions
 
-What’s this about?
+## What’s this about?
 This project uses deep learning to classify bird sounds, specifically the calls of Capuchinbirds (yes, that's a real bird). I trained a model to recognize these calls from audio clips and even managed to process long recordings using a sliding window technique. The output is a CSV file showing when the bird calls happen. Pretty neat, right?
 
-How it’s set up
+## How it’s set up
 Here’s a quick rundown of the project structure:
 
-Deep-Audio-Classifier/
+## Deep-Audio-Classifier/
 │
 ├── data/               # Where the audio files live
 ├── models/             # Saved models
@@ -27,14 +27,14 @@ Deep-Audio-Classifier/
 ├── results/            # Output files go here
 └── README.md           # You’re looking at it :)
 
-Getting Started
+## Getting Started
 If you want to try this out on your own, here’s how to set it up:
 
 1.Clone the repo: git clone https://github.com/yourusername/Deep-Audio-Classifier.git
 2.Jump into the folder: cd Deep-Audio-Classifier
 3.Install the dependencies:pip install -r requirements.txt
 
-The Data Process
+## The Data Process
 Load the Audio: The project uses librosa to load the audio files.
 Extract Features: I used MFCC (Mel-frequency cepstral coefficients) and spectrograms to turn the audio into something the model can understand.
 Data Augmentation: I threw in some noise and shifted the audio around a bit to help the model generalize better.
@@ -47,7 +47,7 @@ Convolutional Layers: These help the model recognize patterns in the audio.
 Dense Layers: These process the extracted features.
 Output Layer: Gives the classification: bird call or no bird call.
 
-Training and Results
+## Training and Results
 I trained the model on a bunch of audio clips and got some decent results. The accuracy was pretty good, and it could pick out the bird calls with high precision. Here’s a sample output:
 Time (s)   | Detected Call
 ---------------------------
