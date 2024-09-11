@@ -1,5 +1,5 @@
 # Deep Audio Classifier
-Welcome to my Deep Audio Classifier project! This is a cool little experiment I worked on where I used deep learning to identify Capuchinbird calls from audio recordings. It's built with Python and TensorFlow, and it was a fun way for me to dive deeper into audio processing and machine learning.
+Welcome to my Deep Audio Classifier project! This is a experiment I worked on where I used deep learning to identify Capuchinbird calls from audio recordings. It's built with Python and TensorFlow, and it was a fun way for me to dive deeper into audio processing and machine learning.
 
 Table of Contents
 * What’s this about?
